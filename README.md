@@ -1,6 +1,6 @@
 ### Hello World, I'm Gavin 👋
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/627451/screenshots/5866692/isometric_city.png" width="600" height="420" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1593845/screenshots/14336250/media/e2eb963e738eeba7fead735cd98af94a.jpg" width="600" height="420" />
 
 
 
