@@ -1,11 +1,7 @@
 ### Hello World, I'm Gavin 👋
 
- <img align="right" alt="GIF" src="" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://www.dvnitsolutions.com/Content/revolution/assets/Why-DITS-3.gif" width="500" height="320" />
 
- <video align="right" width="320" height="240" controls>
-    <source src="https://cdn.dribbble.com/users/1374371/screenshots/9796240/media/4873db50c9b9cfd5de03e625eaf22cc1.mp4" type="video/mp4">>
-  Your browser does not support the video tag.
-  </video>
 
 
 ## I am a software engineer/stock investor.
