@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning ReactJS/Redux, MS Dynamics and stocks.
 - 👯 I’m looking to collaborate on anything software.
 - 💬 Ask me about ... Anything ! :D
-- 😄 Pronouns: Call me Gav
-- ⚡ Fun fact: 
+
 
 
 ### Talk with me, I am kinda awesome:
