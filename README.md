@@ -1,6 +1,6 @@
 ### Hello World, I'm Gavin 👋
 
- <img align="right" alt="GIF" src="https://www.dvnitsolutions.com/Content/revolution/assets/Why-DITS-3.gif" width="700" height="520" />
+ <img align="right" alt="GIF" src="https://www.dvnitsolutions.com/Content/revolution/assets/Why-DITS-3.gif" width="600" height="420" />
 
 
 
