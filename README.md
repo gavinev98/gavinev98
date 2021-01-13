@@ -7,7 +7,7 @@
 ## I am a software engineer.
 - ✍ You can find my projects an my experience here [portfolio]
 - 🔭 I’m currently working on completing a course in ReactJS/Redux.
-- 🌱 I’m currently learning ReactJS/Redux, MS Dynamics and stocks.
+- 🌱 I’m currently learning ReactJS/Redux, MS Dynamics and CryptoCurrencies.
 - 👯 I’m looking to collaborate on anything software.
 - 💬 Ask me about ... Anything ! :D
 
