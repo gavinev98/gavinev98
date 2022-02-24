@@ -6,7 +6,7 @@
 
 ## I am a software engineer.
 - ✍ You can find my projects an my experience here [portfolio]
-- 🌱 I’m currently learning ReactJS/Redux, Microsoft Products{Dynamics,Power BI,Powerapps, Flow etc} and CryptoCurrencies.
+- 🌱 I’m currently learning ReactJS/Redux, Stencil JS and CryptoCurrencies.
 - 👯 I’m looking to collaborate on anything software.
 - 💬 Ask me about ... Anything ! :D
 
